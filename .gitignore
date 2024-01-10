@@ -1,0 +1,3 @@
+
+# Se le indica que cosas GIT no debe seguir por lo tanto no seran subidas a internet
+.venv
